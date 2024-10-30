@@ -14,6 +14,9 @@ public class Ejemplo04 {
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
         int nacimiento = 1983;
+        
+        // El print se usa para mostrar el mensaje en pantalla en una sola linea en cambio el println nos permite mostrar el mensaje en diferentes lineas.
+        
         System.out.print(nombreEstudiante + " ");
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
